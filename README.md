@@ -3,7 +3,7 @@ Hello, Welcome to my github profile.
 
 My Name is Bernardo and im a Sistemas de informação Student.
 
-i'm currently learning how to code and i aim to in WebSec sometime in the future
+i'm currently learning how to code and i aim to get in WebSec sometime in the future
 
 Im learning 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" heigh="40"/>
